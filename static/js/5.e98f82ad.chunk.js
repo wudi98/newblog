@@ -1,0 +1,2 @@
+(this["webpackJsonpnew-blog"]=this["webpackJsonpnew-blog"]||[]).push([[5],{106:function(e,a,t){"use strict";t.r(a);var n=t(0),c=t.n(n),o=t(4),s=t(82),l=t.n(s);a.default=function(e){return c.a.createElement("div",null,c.a.createElement("img",{className:"not-found-image",src:l.a,alt:""}),c.a.createElement("p",{className:"goHomeWrapP"},c.a.createElement(o.b,{to:"/Home"},"\u56de\u5230\u9996\u9875")))}},82:function(e,a,t){e.exports=t.p+"static/media/404-2.59e8afd1.jpg"}}]);
+//# sourceMappingURL=5.e98f82ad.chunk.js.map

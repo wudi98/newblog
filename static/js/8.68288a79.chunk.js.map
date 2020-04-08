@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Classification/index.jsx"],"names":["Index","props"],"mappings":"4GAAA,2BAQeA,UANf,SAAeC,GACX,OACI","file":"static/js/8.68288a79.chunk.js","sourcesContent":["import React from 'react';\n\nfunction Index(props) {\n    return (\n        <div>分类</div>\n    );\n}\n\nexport default Index;\n"],"sourceRoot":""}

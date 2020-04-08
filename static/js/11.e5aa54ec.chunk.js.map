@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Laboratory/index.tsx"],"names":["Index"],"mappings":"6GAAA,2BAQeA,UANf,WACI,OACI","file":"static/js/11.e5aa54ec.chunk.js","sourcesContent":["import React from 'react';\n\nfunction Index() {\n    return (\n        <div>实验室</div>\n    );\n}\n\nexport default Index;\n"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+(this["webpackJsonpnew-blog"]=this["webpackJsonpnew-blog"]||[]).push([[10],{98:function(e,n,t){"use strict";t.r(n);var a=t(11),r=t(12),c=t(15),u=t(16),l=t(0),i=t.n(l),o=function(e){Object(u.a)(t,e);var n=Object(c.a)(t);function t(){return Object(a.a)(this,t),n.apply(this,arguments)}return Object(r.a)(t,[{key:"render",value:function(){return i.a.createElement("div",null,"\u5434\u5c0f\u8fea\u554a",i.a.createElement("br",null),"\u9996\u9875")}}]),t}(l.Component);n.default=o}}]);
+//# sourceMappingURL=10.cf8d29fb.chunk.js.map

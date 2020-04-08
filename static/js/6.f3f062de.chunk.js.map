@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Archive/index.jsx"],"names":["Index","props"],"mappings":"2GAAA,2BAQeA,UANf,SAAeC,GACX,OACI","file":"static/js/6.f3f062de.chunk.js","sourcesContent":["import React from 'react';\n\nfunction Index(props) {\n    return (\n        <div>归档</div>\n    );\n}\n\nexport default Index;\n"],"sourceRoot":""}

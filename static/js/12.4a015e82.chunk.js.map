@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Search/index.tsx"],"names":["Index"],"mappings":"6GAAA,2BAQeA,UANf,WACI,OACI","file":"static/js/12.4a015e82.chunk.js","sourcesContent":["import React from 'react';\n\nfunction Index() {\n    return (\n        <div>搜索</div>\n    );\n}\n\nexport default Index;\n"],"sourceRoot":""}
